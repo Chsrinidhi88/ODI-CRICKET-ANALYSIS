@@ -2,13 +2,13 @@
 
 This repository demonstrates the development and automation of a data pipeline for cricket analytics using Snowflake. The pipeline ingests data from external sources, processes it through various stages (landing, raw, clean, consumption), and populates dimensional and fact tables for multi-dimensional analysis. It showcases expertise in the following areas:
 
-Snowflake features: Snowpipe, Snowsight, SnowSQL, stored procedures, tasks, task trees
+**Snowflake features:** Snowpipe, Snowsight, SnowSQL, stored procedures, tasks, task trees
 
 Data pipeline development: Ingestion, transformation, loading, automation
 
-Data modeling: Dimensional and fact tables, data cleaning, optimization
+**Data modeling:** Dimensional and fact tables, data cleaning, optimization
 
-Key highlights:
+**Key highlights:**
 
 Continuous data ingestion: Leverages Snowpipe for near real-time data arrival from ADLS Gen 2.
 
