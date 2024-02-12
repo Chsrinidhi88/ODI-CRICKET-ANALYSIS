@@ -20,7 +20,14 @@ Programming Language - SQL, snowsql
 
 **Architecture:**
 
-!Images/architecture.png
+
+
+
+<p align="center">
+  <img src="images/architecture.png" width="350" title="hover text">
+
+</p>
+
 **DataSet used:**
 
 The project utilizes a dataset extracted from the ODI cricket matches, sourced from the cricbuzz website. The dataset consists of semi-structured data in JSON format, encompassing essential fields such as venue details, player information, match specifics, bowler and batter details, and match outcomes. It should be noted that all the data pertains to ODI cricket matches from the year 2023. The repository contains these curated datasets, offering a snapshot suitable for analysis and visualization within the project's defined scope.
