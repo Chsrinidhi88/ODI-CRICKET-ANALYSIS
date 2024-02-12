@@ -24,7 +24,7 @@ Programming Language - SQL, snowsql
 
 
 <p align="center">
-  <img src="images/architecture.png" width="350" title="hover text">
+  <img src="[images/architecture.png](https://github.com/Chsrinidhi88/ODI-CRICKET-ANALYSIS/blob/main/Images/architecture.png)" width="350" title="hover text">
 
 </p>
 
