@@ -20,7 +20,7 @@ Programming Language - SQL, snowsql
 
 **Architecture:**
 
-<img width="431" alt="image" src="https://github.com/Chsrinidhi88/ODI-CRICKET-ANALYSIS/assets/34069596/e82f3ea2-dd92-4050-94a0-5d961df5e2a1">
+<img width="500" alt="image" src="https://github.com/Chsrinidhi88/ODI-CRICKET-ANALYSIS/assets/34069596/e82f3ea2-dd92-4050-94a0-5d961df5e2a1">
 
 
 
