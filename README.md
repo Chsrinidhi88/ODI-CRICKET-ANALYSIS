@@ -5,6 +5,7 @@ This repository demonstrates the development and automation of a data pipeline f
 Snowflake features: Snowpipe, Snowsight, SnowSQL, stored procedures, tasks, task trees
 Data pipeline development: Ingestion, transformation, loading, automation
 Data modeling: Dimensional and fact tables, data cleaning, optimization
+
 Key highlights:
 
 Continuous data ingestion: Leverages Snowpipe for near real-time data arrival from ADLS Gen 2.
